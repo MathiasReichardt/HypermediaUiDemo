@@ -1,2 +1,4 @@
 # HypermediaUiDemo
-Demo deployment of HypermediaUi Siren browser
+Demo of HypermediaUi Siren browser
+
+Use at own risk.
